@@ -18,5 +18,6 @@ pigeon_data = {
 }
 
 def nyc_pigeon_organizer(data)
+  pigeons = Hash.new{}
 
 end
